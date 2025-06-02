@@ -1,0 +1,16 @@
+# Перечень уязвимостей системы
+
+1. [У1. Отсутствие изоляции виртуальных сетей (VLAN)](u1.-otsutstvie-izolyacii-virtualnykh-setei-vlan.md)
+2. [У2. Доступ к консоли гипервизора через HTTP без 2FA](u2.-dostup-k-konsoli-gipervizora-cherez-http-bez-2fa.md)
+3. [У3. Отсутствие мониторинга температуры сервера](u3.-otsutstvie-monitoringa-temperatury-servera.md)
+4. [У4. Отсутствие проверки целостности данных от агентов](u4.-otsutstvie-proverki-celostnosti-dannykh-ot-agentov.md)
+5. [У5. Отсутствие заголовка X-Content-Type-Options](u5.-otsutstvie-zagolovka-x-content-type-options.md)
+6. [У6. Отсутствие шифрования SNMP-трафика](u6.-otsutstvie-shifrovaniya-snmp-trafika.md)
+7. [У7. Кэширование учетных данных в браузере](u7.-keshirovanie-uchetnykh-dannykh-v-brauzere.md)
+8. [У8. Устаревшие библиотеки (Django < 4.2, пакеты ML без патчей)](u8.-ustarevshie-biblioteki-django-less-than-4.2-pakety-ml-bez-patchei.md)
+9. [У9. Отсутствие шифрования Redis‑трафика (нет TLS)](u9.-otsutstvie-shifrovaniya-redis-trafika-net-tls.md)
+10. [У10. Открытые административные интерфейсы (Django Admin без 2FA)](u10.-otkrytye-administrativnye-interfeisy-django-admin-bez-2fa.md)
+11. [У11. Недостаточное логирование аутентификации (нет записи неудачных попыток)](u11.-nedostatochnoe-logirovanie-autentifikacii-net-zapisi-neudachnykh-popytok.md)
+12. [У12. Отсутствие блокировки IP после 5 неудачных попыток входа](u12.-otsutstvie-blokirovki-ip-posle-5-neudachnykh-popytok-vkhoda.md)
+13. [У13. Серверное включение подробного дебаг‑режима (DEBUG=True)](u13.-servernoe-vklyuchenie-podrobnogo-debag-rezhima-debug-true.md)
+14. [У14. Неограниченный доступ к модели ML через API (нет авторизации)](u14.-neogranichennyi-dostup-k-modeli-ml-cherez-api-net-avtorizacii.md)
